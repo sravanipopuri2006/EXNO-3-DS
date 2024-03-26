@@ -31,8 +31,15 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/901b3edb-9e5e-4e2b-9bd9-fc35ad5a413e)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/0f5f648d-4ee5-4305-ad29-4da7007f75bf)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/3110afe2-96ef-414a-a4ed-6dc60b187cb8)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/35de110d-d5f0-41e0-8fdf-643fc1802be2)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/052bb904-0d64-40fe-8169-42216b4f24e0)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/36d602f2-246e-43bb-9ee8-0336bc4edbdc)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/263451e8-ea2a-4500-99fa-04894c3aeafd)
+![image](https://github.com/Meenu2823/EXNO-3-DS…
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+  Thus the program is executed and the output is verfied successfull 
 
        
