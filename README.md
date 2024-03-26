@@ -40,6 +40,6 @@ We use this categorical data encoding technique when the features are nominal(do
 ![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/263451e8-ea2a-4500-99fa-04894c3aeafd)
 ![image](https://github.com/Meenu2823/EXNO-3-DS…
 # RESULT:
-  Thus the program is executed and the output is verfied successfull 
+  Thus the program is executed and the output is verfied successfully
 
        
